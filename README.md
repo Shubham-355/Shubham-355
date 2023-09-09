@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <p> <a href="https://twitter.com/intent/follow?screen_name=real_Shubham_" target="blank"><img src="./assets/twitter-badge.png" height="36" alt="real_Shubham_"/></a> </p>
+- 📫 How to reach me <p> <a href="https://twitter.com/intent/follow?screen_name=real_Shubham_" target="blank"></a> </p>
 
 <!---
 Shubham-355/Shubham-355 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
